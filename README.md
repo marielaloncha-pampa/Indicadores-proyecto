@@ -3,7 +3,7 @@
 Este repositorio contiene un tablero de control para el seguimiento de métricas de obra, incluyendo análisis de presupuesto e indicadores de avance.
 
 ## Dashboard Preview
-![Dashboard](Captura%20de%20pantalla%202024-12-25%20180145.png)
+![Dashboard](dashboard.jpg)
 
 ## Contenido
 * **Archivo .pbix:** El reporte interactivo de Power BI.
