@@ -27,4 +27,4 @@ The dashboard also monitors real-time execution metrics:
 ![Dashboard Detail](dashboard2.jpg)
 
 ---
-*Developed by Mariela Loncha-Pampa*
+*Developed by Mariela Loncharich*
