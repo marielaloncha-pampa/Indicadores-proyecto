@@ -23,7 +23,7 @@ In addition to the simulator, the tool monitors project execution:
 * **Data Modeling:** Efficient structure to handle dynamic calculations.
 
 ## Repository Content
-* **Interactive File:** `simuladorproyecto.pbix`
+* **Interactive File:** simuladorproyecto.pbix
 * **Screenshots:**
 ![Dashboard Detail](dashboard2.jpg)
 
