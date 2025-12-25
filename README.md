@@ -8,3 +8,5 @@ Este repositorio contiene un tablero de control para el seguimiento de métricas
 ## Contenido
 * **Archivo .pbix:** El reporte interactivo de Power BI.
 * **Captura:** Vista previa de los indicadores principales.
+
+* ![Dashboard](dashboard.jpg)
