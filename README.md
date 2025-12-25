@@ -2,7 +2,7 @@
 
 This repository showcases a high-impact **Power BI tool** designed as an interactive cost simulator for residential construction. It allows users to estimate project budgets dynamically based on home size and specifications.
 
-## 🚀 Key Innovation: The Simulator
+## Key Innovation: The Simulator
 Unlike static reports, this dashboard features an **Interactive Cost Calculator**:
 * **Dynamic Input:** Users can select the square footage (m²) of their home.
 * **Instant Estimation:** The dashboard automatically calculates total costs and resource requirements based on the selected area.
@@ -23,7 +23,7 @@ In addition to the simulator, the tool monitors project execution:
 * **Data Modeling:** Efficient structure to handle dynamic calculations.
 
 ## Repository Content
-* **Interactive File:** simuladorproyecto.pbix
+* **Interactive File:** "simuladorproyecto.pbix"
 * **Screenshots:**
 ![Dashboard Detail](dashboard2.jpg)
 
