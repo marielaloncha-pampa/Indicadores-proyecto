@@ -1,2 +1,3 @@
 # Indicadores-proyecto
 Construction Project Management Dashboard in Power BI. Analytics for budget tracking, project timelines, and resource efficiency.
+![Dashboard principal](IMAGEN SIMULADOR.jpg)
